@@ -1,5 +1,6 @@
 # Team Chat App
 Deployed netlify link: jolly-swirles-3efe64.netlify.app
+
 Deployed AWS link: https://master.d2xb8my7if15eh.amplifyapp.com
 
 
